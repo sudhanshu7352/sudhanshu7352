@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hhhrrrttt222111" alt="hhhrrrttt222111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu7352" alt="hhhrrrttt222111" /> </p>
 
 
 <p align="center"> <img src="assets/neo.svg" alt="hhhrrrttt222111" height=300/> </p>
@@ -23,18 +23,14 @@ export default () => ({
     "Cybersecurity"
   ],
   technologies: {
-    "Programming languages": [ "C", "C++", "Python", "Java", "Dart", "Ruby"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","ReactJS", "NextJS", "Material-UI" ],
+    
+    "webdev": [ "HTML", "CSS", "Javascript","ReactJS","Node Js" , "Material-UI" ],
     "appdev": [ "Flutter" ],
-    "databases": [ "MySQl", "MongoDB" ],
-    "applications": ["Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy", "Pandas", "SciPy" ],
-    "machineLearning": [ "scikit-learn", "TensorFlow", "Keras" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
+    "databases": [ "MongoDB" ],
+   
+  
     "devOpsTools": [ "Git" ],
-    "cloudOps": [ "AWS" ],
-    "operatingSystems": [ "Ubuntu", "Kali Linux", "Windows" ],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook", "Atom", "Notepad++" ]
+    
   },
    Skills: [
     "Leadership", "Team Building", "Decision Making",
@@ -49,16 +45,16 @@ export default () => ({
 
 <br>
 
-### 🌱 I’m currently learning OpenCV/ML
+### 🌱 I’m currently learning Web development
 ### 💬 Ask me anything on Web Dev
-### 📧 Reach me: **hemanththanal@gmail.com**
+### 📧 Reach me: **sudhanshuk384@gmail.com**
 ### 👾 Check out my blog [Hackzism](https://hackzism.blogspot.com/)
 ### 💻 Visit my website [🌐](http://hhhrrrttt222111.me/)
 
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hhhrrrttt222111&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu7352&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
 
 <!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hhhrrrttt222111&theme=onedark" alt="hrt" /> </p> -->
 

@@ -24,7 +24,7 @@ export default () => ({
   ],
   technologies: {
     
-    "webdev": [ "HTML", "CSS", "Javascript","ReactJS","Node Js"  ],
+    "webdev": [ "HTML", "CSS", "Javascript","ReactJS","Node Js" ,"Redux" ],
     "databases": [ "MongoDB" ],
     "devOpsTools": [ "Git" ],
     
@@ -45,7 +45,7 @@ export default () => ({
 ### 🌱 I’m currently learning MERN Stack 
 ### 💬 Ask me anything on Web Dev
 ### 📧 Reach me: **sudhanshuk384@gmail.com**
-### 💻 Visit my website [🌐]
+### 💻 Visit my website [🌐] https://github.com/sudhanshu7352
 
 <br>
 

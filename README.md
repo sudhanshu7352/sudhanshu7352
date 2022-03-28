@@ -41,12 +41,12 @@ export default () => ({
 ```
 
 <br>
-
-### 🌱 I’m currently learning MERN Stack 
-### 💬 Ask me anything on Web Dev
-### 📧 Reach me: **sudhanshuk384@gmail.com**
-### 💻 Visit my website [🌐] https://github.com/sudhanshu7352
-
+## 🙋‍♂️ About Me
+### 🌱 I’m currently learning MERN Stack from Masai School
+### 💬 I’m looking to work as **Web Developer**
+### 📧 You can Reach me: **sudhanshuk384@gmail.com**
+### 💻 All of my projects are available at [🌐] https://github.com/sudhanshu7352
+### 🔭 Know more about me **[Portfolio](https://portfolio-peach-nine-31.vercel.app/)**
 <br>
 
 

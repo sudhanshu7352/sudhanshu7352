@@ -26,7 +26,7 @@ export default () => ({
     
     "webdev": [ "HTML", "CSS", "Javascript","ReactJS","Node Js" ,"Redux" ],
     "databases": [ "MongoDB" ],
-    "devOpsTools": [ "Git" ],
+    "devOpsTools": [ "Git","Docker","Kubernetes" ],
     
   },
    Skills: [

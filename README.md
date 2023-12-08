@@ -34,8 +34,8 @@ export default () => ({
     "Problem Solving", "Time Management", "Quick Learner" 
   ],
    Interest: [
-    "Technology", "Coding", "Reading",
-    "Football", "Music", "Cricket" 
+    "Technology", "Coding", "Reading Books",
+     "Music", "Cricket" 
   ]
 });
 ```
@@ -43,9 +43,9 @@ export default () => ({
 <br>
 ### 🙋‍♂️ About Me
 
-### 🌱 I’m currently learning MERN Stack from Masai School
+### 🌱 I’m currently working as a nodeJs developer at Mumbai,India
 
-### 💬 I’m looking to work as **Web Developer**
+### 💬 I’m have done MERN stack Course from Masai School, Bengaluru
 
 ### 📧 You can Reach me: **Sudhanshuk384@gmail.com**
 ### 💻 All of my projects are available at [🌐] https://github.com/sudhanshu7352

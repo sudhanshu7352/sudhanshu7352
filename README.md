@@ -52,14 +52,18 @@ export default () => ({
 ### 🔭 Know more about me **[Portfolio](https://portfolio-tuz8.vercel.app/)**
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu7352&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" />
+</p>
+<br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu7352&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" /> </p>  <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhanshu7352&theme=onedark" alt="hrt" />
+</p>
 
-<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hhhrrrttt222111&theme=onedark" alt="hrt" /> </p> -->
-
-<!---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhrrrttt222111&show_icons=true&layout=compact&theme=tokyonight"" alt="hrt" /> </p>
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu7352&show_icons=true&layout=compact&theme=tokyonight" alt="hrt" />
+</p>
 
 ## Connect with me:
 

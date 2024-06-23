@@ -49,7 +49,7 @@ export default () => ({
 
 ### 📧 You can Reach me: **Sudhanshuk384@gmail.com**
 ### 💻 All of my projects are available at [🌐] https://github.com/sudhanshu7352
-### 🔭 Know more about me **[Portfolio](https://portfolio-peach-nine-31.vercel.app/)**
+### 🔭 Know more about me **[Portfolio](https://portfolio-tuz8.vercel.app/)**
 <br>
 
 

@@ -53,9 +53,10 @@ export default () => ({
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu7352&count_private=true&show_icons=true&theme=tokyonight&custom_title=My Github Stats 👾" alt="hrt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu7352&count_private=true&show_icons=true&theme=tokyonight" alt="My Github Stats" />
 </p>
 <br>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudhanshu7352&theme=onedark" alt="hrt" />

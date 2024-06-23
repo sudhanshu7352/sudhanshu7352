@@ -24,13 +24,13 @@ export default () => ({
   ],
   technologies: {
     
-    "webdev": [ "HTML", "CSS", "Javascript","ReactJS","Node Js" ,"Redux" ],
-    "databases": [ "MongoDB" ],
-    "devOpsTools": [ "Git","Docker","Kubernetes" ],
+    "webdev": [ "HTML", "CSS", "Javascript", "NodeJs", "ExpressJs", "ReactJS" ,"Redux", "Redis" ],
+    "databases": [ "MongoDB", "MySQL", "PostgreSQL" ],
+    "devOpsTools": [ "Git", "Docker", "Kubernetes", "Linux" ],
     
   },
    Skills: [
-    "Leadership", "Team Building", "Decision Making",
+     "Team Building", "Decision Making",
     "Problem Solving", "Time Management", "Quick Learner" 
   ],
    Interest: [
@@ -43,7 +43,7 @@ export default () => ({
 <br>
 ### 🙋‍♂️ About Me
 
-### 🌱 I’m currently working as a nodeJs developer at Mumbai,India
+### 🌱 I’m currently working as a NodeJs developer at Mumbai,India
 
 ### 💬 I’m have done MERN stack Course from Masai School, Bengaluru
 
